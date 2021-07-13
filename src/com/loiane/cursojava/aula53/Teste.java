@@ -9,6 +9,8 @@ public class Teste {
 	}
 	
 	private static void usarEnum() {
+//		DiaSemana.SEGUNDA
+		
 		DiaSemana segunda = DiaSemana.SEGUNDA;
 		DiaSemana terca = DiaSemana.TERCA;
 		DiaSemana quarta = DiaSemana.QUARTA;
