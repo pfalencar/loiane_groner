@@ -1,6 +1,6 @@
 package com.loiane.cursojava.aula66.garbagecollector;
 
-import com.loiane.cursojava.aula61.Contato;
+import com.loiane.cursojava.aula61.parametrosvalorreferencia.Contato;
 
 public class ColetorLixo {
 	

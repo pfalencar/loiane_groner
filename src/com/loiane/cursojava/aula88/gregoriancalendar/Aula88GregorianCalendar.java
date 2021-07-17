@@ -13,7 +13,7 @@ public class Aula88GregorianCalendar {
 		
 		imprimirData(hoje);
 		
-		System.out.println(hoje.isLeapYear(2021)); //verifica se é ano bixesto, só no GregorianCalendar
+		System.out.println(hoje.isLeapYear(2021)); //verifica se é ano bissexto, só no GregorianCalendar
 		
 		GregorianCalendar hoje2 = new GregorianCalendar(2021, 6, 13, 19, 18, 3);
 		
